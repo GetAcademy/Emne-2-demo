@@ -1,6 +1,7 @@
 const model = {
     app: {
         currentPage: 'itemsPage',
+        message: '',
     },
 
     viewState: {
